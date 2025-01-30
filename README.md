@@ -1,12 +1,13 @@
+
 # MarvelApp
 
 A React-based applicaton that explores the Marvel Universe, display characters, comics and other exciting details.
-
 ## Features
 
 - Browse Marvel characters and comics.
 - Search for specific heroes.
 - Responsive UI for different devices.
+
 
 ## Run Locally
 
@@ -34,11 +35,29 @@ Start the server
  npm start
 ```
 
+
 ## Tech Stack
 
 **Client:** React, CSS
 
-**API:** Marvel
+**API:** Marvel 
+
+
+## Usage
+
+- Open http://localhost:3000/ in your browser.
+- Use the search bar to find Marvel characters.
+- Click on a character to view more details.
+## Testing the MarvelApp
+Home
+![App Screenshot](https://github.com/Muoki-Mary/MarvelApp/blob/main/screenshots/home.png?raw=true)
+
+Characters
+![App Screenshot](https://github.com/Muoki-Mary/MarvelApp/blob/main/screenshots/characters.png?raw=true)
+
+Modal
+![App Screenshot](https://github.com/Muoki-Mary/MarvelApp/blob/main/screenshots/modal.png?raw=true)
+
 
 ## Contributing
 
@@ -60,6 +79,7 @@ git add .
 git commit -m "Description of changes"
 ```
 
+
 Push the changes to your branch:
 
 ```
@@ -70,12 +90,7 @@ Open a pull request to merge into the master branch.
 
 Your PR will be reviewed and your changes merged.
 
-## Usage
-
-- Open http://localhost:3000/ in your browser.
-- Use the search bar to find Marvel characters.
-- Click on a character to view more details.
-
 ## License
 
 MIT
+
